@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\bin\Debug\net6.0\bebra001_privConsole.exe
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\bin\Debug\net6.0\bebra001_privConsole.deps.json
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\bin\Debug\net6.0\bebra001_privConsole.runtimeconfig.json
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\bin\Debug\net6.0\bebra001_privConsole.dll
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\bin\Debug\net6.0\bebra001_privConsole.pdb
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\bebra001_privConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\bebra001_privConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\bebra001_privConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\bebra001_privConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\bebra001_privConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\bebra001_privConsole.dll
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\refint\bebra001_privConsole.dll
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\bebra001_privConsole.pdb
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\bebra001_privConsole.genruntimeconfig.cache
+C:\Users\User\Desktop\bebra\bebra\bebra001_privConsole\obj\Debug\net6.0\ref\bebra001_privConsole.dll
